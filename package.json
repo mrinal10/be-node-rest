@@ -1,0 +1,19 @@
+{
+  "name": "be-node-rest",
+  "version": "1.0.0",
+  "description": "Rest services implemented in Node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrinal10/be-node-rest.git"
+  },
+  "author": "Mrinal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrinal10/be-node-rest/issues"
+  },
+  "homepage": "https://github.com/mrinal10/be-node-rest#readme"
+}
